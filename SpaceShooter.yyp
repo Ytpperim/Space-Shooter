@@ -63,6 +63,14 @@
             }
         },
         {
+            "Key": "3c794fa8-60a2-4382-b031-fd91cdf93226",
+            "Value": {
+                "id": "849347c4-f5c9-4872-ba1e-268c704b41c6",
+                "resourcePath": "objects\\obj_asteroid_mini\\obj_asteroid_mini.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "4063b7f3-17bc-4183-bb89-35668e9afef9",
             "Value": {
                 "id": "a9e0e4c6-fcf1-400e-8ce9-52aa406ac4af",
@@ -164,6 +172,14 @@
                 "id": "5f6b2c83-e774-4bab-9cd8-299900096ab0",
                 "resourcePath": "options\\windows\\options_windows.yy",
                 "resourceType": "GMWindowsOptions"
+            }
+        },
+        {
+            "Key": "cf3bcb7a-9d07-46e2-8760-48fa69712d38",
+            "Value": {
+                "id": "55811f19-eba9-4f11-887f-24430201563d",
+                "resourcePath": "sprites\\spr_asteroid_mini\\spr_asteroid_mini.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
