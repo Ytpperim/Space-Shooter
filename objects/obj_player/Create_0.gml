@@ -5,3 +5,10 @@
 x =512;
 y =384;
 image_angle = 0;
+
+/// @DnDAction : YoYo Games.Instance Variables.Set_Lives
+/// @DnDVersion : 1
+/// @DnDHash : 262CB70F
+/// @DnDArgument : "lives" "5"
+
+__dnd_lives = real(5);
