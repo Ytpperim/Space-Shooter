@@ -24,3 +24,11 @@ with(obj_player) {
 if(!variable_instance_exists(id, "__dnd_lives")) __dnd_lives = 0;
 __dnd_lives += real(-1);
 }
+
+/// @DnDAction : YoYo Games.Movement.Set_Speed
+/// @DnDVersion : 1
+/// @DnDHash : 6FD070C6
+/// @DnDApplyTo : b51c2822-2c56-4803-bfff-7582eb787f71
+/// @DnDArgument : "speed" "-5"
+/// @DnDArgument : "speed_relative" "1"
+with(obj_player) speed += -5;
