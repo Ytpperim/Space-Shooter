@@ -122,7 +122,7 @@
             "Key": "5114a954-077d-4d35-90d5-53e31a031fc0",
             "Value": {
                 "id": "1f4e1164-fda3-43c1-b424-1d351dec6aef",
-                "resourcePath": "sprites\\sprite8\\sprite8.yy",
+                "resourcePath": "sprites\\spr_end\\spr_end.yy",
                 "resourceType": "GMSprite"
             }
         },
@@ -188,6 +188,14 @@
                 "id": "2fd226fe-1ec7-4d16-af76-892bcce065c1",
                 "resourcePath": "sprites\\spr_player\\spr_player.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "a0e9fb0c-b194-4655-917f-d7d70a135417",
+            "Value": {
+                "id": "332dc12a-02a4-445d-b414-9c9b0dfb306e",
+                "resourcePath": "timelines\\timeline_asteroids\\timeline_asteroids.yy",
+                "resourceType": "GMTimeline"
             }
         },
         {
