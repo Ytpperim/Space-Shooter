@@ -119,6 +119,14 @@
             }
         },
         {
+            "Key": "5114a954-077d-4d35-90d5-53e31a031fc0",
+            "Value": {
+                "id": "1f4e1164-fda3-43c1-b424-1d351dec6aef",
+                "resourcePath": "sprites\\sprite8\\sprite8.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "62688879-ce7f-4acd-b36c-2a91bdfc3da0",
             "Value": {
                 "id": "6af172ae-dff7-45ea-b074-5f5ef7e48013",
@@ -148,6 +156,14 @@
                 "id": "bc12b122-72a1-4a17-8816-683241d84ad3",
                 "resourcePath": "rooms\\rm_game\\rm_game.yy",
                 "resourceType": "GMRoom"
+            }
+        },
+        {
+            "Key": "75195482-c5a0-4c21-948a-a1727f5b3f5f",
+            "Value": {
+                "id": "5389622c-57c6-44b9-8532-5ca600443b1c",
+                "resourcePath": "fonts\\font_end_game\\font_end_game.yy",
+                "resourceType": "GMFont"
             }
         },
         {
